@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travely</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="cover_banner">Cover Banner</string>
+</resources>

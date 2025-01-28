@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920834053483",
+    "project_id": "travely-5f61e",
+    "storage_bucket": "travely-5f61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920834053483:android:dbb35f7edec26c7ab3e82e",
+        "android_client_info": {
+          "package_name": "com.example.travely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2737kOshpMDaVkSuLHlzw80lo65dr3ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
